@@ -20,7 +20,7 @@ public class DBConn
 		}
 		return dbConn;
 	}
-	//윤희진 바보
+	//윤희진 바보11111
 	public static Connection getConnection(String url, String user, String pwd) throws ClassNotFoundException, SQLException
 	{
 		if (dbConn == null)
