@@ -9,7 +9,7 @@
 <body>
 
 <div>
-	<h1>큰주제test</h1>
+	<h1>큰주제~</h1>
 	<hr>
 </div>
 
